@@ -1,7 +1,5 @@
 The Doomed Dice Challenge
 
-The Doomed Dice Challenge
-
 Problem Statement: The Doomed Dice Challenge
 
 Part-A
